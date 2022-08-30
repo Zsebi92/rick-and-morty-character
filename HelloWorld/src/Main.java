@@ -26,6 +26,7 @@ public class Main {
         System.out.println("Ein Weiterer Commit!");
 
         System.out.println("Ein Fancy Feature");
+        System.out.println("Ein Fancy Feature");
 
     }
 }
