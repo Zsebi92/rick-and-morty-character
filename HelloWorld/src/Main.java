@@ -23,5 +23,7 @@ public class Main {
         System.out.println("Aufgabe 5: Gebe die Länge des Arrays in der Konsole aus");
         System.out.println(someNumbers.length);
 
+        System.out.println("Ein Weiterer Commit!");
+
     }
 }
